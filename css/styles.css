@@ -9,7 +9,7 @@ body{
 
 .main-h2{
    color: white;
-   font-family: Karla;
+   font-family: "Karla", sans-serif;
    font-size: 48px;
    font-style: normal;
    font-weight: 800;
@@ -25,7 +25,7 @@ body{
 }
 .nav-item{
    color: #FFF;
-font-family: Karla;
+   font-family: "Karla", sans-serif;
 font-size: 24px;
 font-style: normal;
 font-weight: 500;
@@ -45,7 +45,7 @@ li{
 
 .number{
   color: white;
-  font-family: Karla;
+  font-family: "Karla", sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -58,7 +58,7 @@ li{
 
 .hero-title{
    color: #FFF;
-   font-family: Karla;
+   font-family: "Karla", sans-serif;
    font-size: 72px;
    font-style: normal;
    font-weight: 700;
@@ -68,7 +68,7 @@ li{
 .hero-p{
    color: white;
    color: #FFFBFB;
-font-family: Karla;
+   font-family: "Karla", sans-serif;
 font-size: 34px;
 font-style: normal;
 font-weight: 400;
@@ -80,7 +80,7 @@ line-height: normal;
    border: none;
    border-radius: 5px;
    color: #000;
-font-family: Karla;
+   font-family: "Karla", sans-serif;
 font-size: 30px;
 font-style: normal;
 font-weight: 400;
